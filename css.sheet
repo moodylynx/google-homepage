@@ -1,0 +1,60 @@
+
+#signin {
+    background-color: white;
+    display: inline-block;
+    border: solid 2px white;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 10px;
+    padding: 10px;
+    decoration: none;
+}
+#pictures{
+background-color: white;
+    display: inline-block;
+    border: solid 2px white;
+    position: absolute;
+    margin-left: 100px;
+    margin-top: -200px;
+    padding: 10px;
+ decoration: none;
+}
+#gmail {
+  background-color: white;
+    display: inline-block;
+    border: solid 2px white;
+    position: absolute;
+    margin-top: -200px;
+    margin-left: 200px;
+    padding: 10px;
+   decoration: none;
+}
+.img{
+    width: 400px;
+    height: 200px;
+    padding: 10px;
+    padding-left: 100px;
+    margin: 0 auto;
+    margin-top: 200px;
+    position: relative;
+}
+#searchbar{
+    width: 400px;
+    padding: 10px;
+    border-radius: 360px;
+    margin-top: -50px;
+    margin-left: 210px;
+    margin-right: 50px;
+    margin-bottom: -100px;
+    display: block;
+    position: absolute;
+    }
+    #searchbar:hover {
+        background-color: #5EA19D;
+    }
+    #footer{
+        margin-top: 100px;
+        width: auto;
+        background-color: #ddebff;
+        padding: 40px;
+    }

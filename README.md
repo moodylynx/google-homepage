@@ -1,1 +1,3 @@
 # google-homepage
+<h1>my first project</h1>
+<p> i strugled alot to do this project and even left some unsolved issues like the anchor tag underlining and the search bar, it just dont keep it's position despite adding an absolute value to it and relative value to the before div and it took me alot of time so i decided to have a deadline to submit and i tried but i didn't complete the page and i see this project as a failure but i will try my best to learn more.</P>
